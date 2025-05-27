@@ -101,6 +101,15 @@ footer {
   color: rgb(0, 102, 255);
 }
 
+.reg-text-hyperlink {
+  text-decoration: none;
+  color: skyblue;
+}
+
+.reg-text-hyperlink:hover {
+  color: rgb(182, 234, 255);
+}
+
 .days-section {
   display: flex;
   overflow: hidden;
