@@ -29,8 +29,11 @@ section {
 footer {
   background-color: #002b86;
   color: #d0e7ff;
-  padding: 40px 20px;
+  padding: 60px 0px;
   margin-top: 60px;
+  margin-left: -20px;
+  margin-right: -20px;
+  margin-bottom: -20px;
   font-size: 14px;
 }
 
@@ -266,7 +269,7 @@ footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  max-width: 1200px;
+  max-width: 95%;
   margin: auto;
 }
 
@@ -278,7 +281,7 @@ footer {
 }
 
 .footer-logo {
-  width: 100px;
+  width: 150px;
   margin-bottom: 10px;
 }
 
